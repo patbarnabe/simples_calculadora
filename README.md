@@ -1,2 +1,2 @@
-# simples_calculadora
+# Simples Calculadora
 Atividade em C++.
